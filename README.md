@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VameghMehrabadi
+- 👀 I’m interested in programming and artificial intellengence
+- 🌱 I’m currently learning Ml and ai 
+- 📫 How to reach me : @vameghmehrabadiai in telegram
