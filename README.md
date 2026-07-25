@@ -11,7 +11,6 @@ AI programmer and web developer | Interested in machine learning, data mining, a
 ---
 
 ## 🚀 Projects
-- [AgroScan](https://vamegh-firstspace.hf.space/) – Pest detection (Gold Medal, USA)  
 - [CRM AI K-means](https://github.com/VameghMehrabadi/CRM-Ai-k-means-clustring) – AI project using K-means clustering  
 - [Glass Design](https://glassdesign.ir) – Web design project  
 - [Parisa Makeup](https://parisamakeup.com) – Personal web project  
